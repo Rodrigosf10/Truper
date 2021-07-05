@@ -1,0 +1,355 @@
+.color_truper {
+    color: #ff6600;
+}
+
+.barra1 {
+    width: 100%;
+    height: 80px;
+    background-color: #262626;
+}
+
+.buscador {
+    color: #757575;
+    padding: 20px;
+    padding-right: 20px;
+    border: none;
+    background-color: #F9F9F9;
+    border-radius: 33px;
+    width: 100%;
+    height: 40px;
+    padding-right: 40px;
+    font-family: "Lato", "Helvetica Neue", Verdana, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.iconosD {
+    float: right;
+    text-align: right;
+    margin-top: 5px;
+}
+
+.ubicacion {
+    padding: 20px;
+    padding-right: 20px;
+    width: 100%;
+    height: 40px;
+    padding-right: 40px;
+}
+
+.logo {
+    margin-top: 26px;
+    margin-left: 15%;
+}
+
+.img-responsive {
+    position: relative;
+    max-width: 23px;
+    left: 4px;
+    right: 5px;
+}
+
+.letras {
+    color: #F9F9F9;
+    font-size: 14px;
+}
+
+.letras2 {
+    color: #F9F9F9;
+    font-size: 16px;
+}
+
+.input-radius {
+    border-radius: 20px;
+}
+
+.select-trasparent {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.sizebtn {
+    width: 80px;
+    height: 25px;
+    font-size: 14px;
+    color: #F9F9F9;
+    border-color: transparent;
+}
+
+.flechita {
+    background-color: #262626;
+    color: #ff6600;
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+.lupa {
+    background-color: white;
+    border: transparent;
+    margin-top: 3px;
+}
+
+.barra {
+    background-color: #262626;
+    width: 100%;
+    height: 80px;
+}
+
+.barra2 {
+    background-color: #353535;
+    width: 100%;
+    height: 41px
+}
+
+.distribuidor {
+    background: url("../img/vendedor2.jpg");
+    width: auto;
+    height: auto;
+}
+
+.fechas {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-text-size-adjust: 100%;
+    text-shadow: none !important;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Glyphicons Halflings";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+    font-size: 30px;
+    margin-left: -10px;
+    color: #ff6602;
+}
+
+.btn_truper {
+    font-family: 'Lato', sans-serif;
+    background: #ff6600;
+    color: #fff;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 50px;
+    min-width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: none;
+}
+
+.btn_truper2 {
+    font-family: 'Lato', sans-serif;
+    background: #ff6600;
+    color: #fff;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: none;
+}
+
+.textocards {
+    font-size: 13px;
+    color: #4b4b4b;
+}
+
+.titulosCards {
+    font-family: 'Lato', sans-serif !important;
+}
+
+.contenedorCards {
+    background: #f0efef
+}
+
+.spanColor {
+    color: #ff6600;
+    font-size: 40px;
+}
+
+.vendedor {
+    background-color: red;
+    width: 100%;
+    height: 30%;
+}
+
+.letras3 {
+    color: #fff;
+    font-family: 'Lato', sans-serif !important;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.letras4 {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: normal;
+    font-size: 14px !important;
+}
+
+.letras5 {
+    color: #fff;
+    font-size: 12px;
+}
+
+.quote {
+    font-family: "Times New Roman";
+    font-size: 34px !important;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    line-height: 50px;
+    margin-bottom: -24px;
+    width: 100%;
+}
+
+.buscador {
+    margin-top: 3px;
+    background-color: #ffffff;
+    width: 100%;
+    height: 38px;
+    border-radius: 25px 0px 0px 25px;
+    text-decoration: none;
+}
+
+.parrafos {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 300;
+    font-size: 14px !important;
+    color: #fff
+}
+
+.dobles {
+    margin: 2px 0
+}
+
+.marcas {
+    width: 160px;
+    height: 85px;
+}
+
+.marcas2 {
+    width: 170px;
+    height: 23px;
+}
+
+.piePagina {
+    background: #262626;
+    color: #fff;
+    font-size: 12px;
+    width: 100%;
+    height: auto;
+}
+
+.seccion1 {
+    display: block;
+    color: #fff;
+    font-size: 11.5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.btn-mensaje {
+    max-width: 100%;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.btnElementos {
+    border-radius: 5px 5px 0px 0px;
+    width: 178px;
+    height: 40px;
+    padding: 0px 15px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: 1000;
+    border: 0px none;
+}
+
+.sticky-top2 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 80px;
+    z-index: 1030;
+}
+
+.btnFijo {
+    background: #ff6600;
+    color: #fff;
+    font-family: inherit;
+    font-size: 100%;
+}
+
+.fijado {
+    border-radius: 5px 5px 0px 0px;
+    width: 178px;
+    height: 40px;
+    padding: 0px 15px;
+    bottom: 0px;
+    left: 90%;
+    position: fixed;
+    z-index: 1000;
+    border: 0px none;
+}
+
+.btn_truper3 {
+    font-family: 'Lato', sans-serif;
+    background: #ff6600;
+    color: #fff;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 50px;
+    min-width: 100px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: none;
+    margin-top: 6px;
+}
+
+.desplegable {
+    margin-top: 1px;
+    background-color: #ff6600;
+    color: #fff;
+    width: 240px;
+    height: 40px;
+}
+
+.dropdown-desplegable {
+    margin-top: 2px;
+}
+
+.navbar {
+    width: 100%;
+    height: 39px;
+}
+
+.btn_truper4:hover {
+    margin-top: 2px;
+    background-color: #ff6600;
+}
+
+.btn_truper5:hover {
+    background-color: #fff;
+    color: #ff6600;
+}
+
+.letras_opciones {
+    color: #fff
+}
+
+.btn_seleccion:hover {
+    background-color: #262626;
+    color: #ff6600;
+}
